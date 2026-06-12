@@ -1,37 +1,56 @@
-# Rushen Kavindu | Portfolio 👾
+# <p align="center"> Rushen Kavindu </p>
 
-Welcome to my personal portfolio repository! This project serves as a centralized hub showcasing my academic journey, technical skillset, full-stack projects, and leadership experiences as a Computer Science undergraduate.
+<p align="center">
+  <b>💻 AI & Software Engineering Student | 🛠️ Tech Enthusiast</b>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I am a goal-oriented Computer Science undergraduate with outstanding organizational, leadership, and problem-solving skills. I thrive in collaborative environments, bringing strong communication skills, an honest work ethic, and an adaptable mindset to modern software engineering challenges.
-
-* 📍 **Location:** Chilaw, Sri Lanka
-* 🎓 **Education:** BSc (Hons) in Computer Science at the University of Westminster / Informatics Institute of Technology (IIT)
-* ⚡ **Core Focus:** Full-Stack Web Development, Serverless Architecture, and Applied Machine Learning.
+<p align="center">
+  Welcome to my personal portfolio repository! This project serves as a centralized hub showcasing my academic journey, technical skillset, full-stack projects, and leadership experiences as a Computer Science undergraduate.
+</p>
 
 ---
 
-## 🛠️ Technical Stack & Tools
-
-### Languages & Core Web
-* **Languages:** Python, Java, SQL, JavaScript
-* **Frontend:** HTML5, CSS3, Tailwind CSS, React
-
-### Concepts & Architecture
-* Object-Oriented Programming (OOP)
-* Client-Server Architecture
-* Server-Side Web Development
-* Database Systems & NoSQL Modeling
-
-### Tools & Environments
-* **IDEs/Editors:** VS Code, IntelliJ IDEA, NetBeans
-* **Design & Collaboration:** Figma, FigJam
-* **Version Control:** Git & GitHub
+### 🌟 About Me
+- 🎓 **Education:** BSc (Hons) in Computer Science at the University of Westminster / Informatics Institute of Technology (IIT)
+- 💡 **Core Focus:** Full-Stack Web Development, Serverless Architecture, and Applied Machine Learning
+- 📍 **Location:** Chilaw, Sri Lanka
+- 🤝 **Profile:** Goal-oriented with outstanding organizational, leadership, and problem-solving skills. I thrive in collaborative environments
+- 🦁 **Leadership:** Vice-President and former Treasurer of the Leo Club of Chilaw Marians
 
 ---
+
+### 🛠️ Technical Stack & Tools
+
+#### 🌐 Languages & Core Web
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</p>
+
+#### 🔧 Tools & Environments
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://developers.google.com/static/focus/images/antigravity-icon.png" alt="antigravity" width="40" height="40"/>
+</p>
+
+#### 🏛️ Concepts & Architecture
+- Object-Oriented Programming (OOP)
+- Client-Server Architecture
+- Server-Side Web Development
+- Database Systems & NoSQL Modeling
+
+---
+
 
 ## 🚀 Featured Projects
 
