@@ -94,6 +94,7 @@ Beyond writing code, I am highly active in community service and youth leadershi
 ## 📬 Connect with Me
 
 * **Email:** [rushenkavinduchilaw@gmail.com](mailto:rushenkavinduchilaw@gmail.com)
+* **Phone:** [077 353 5282](tel:+94773535282)
 * **LinkedIn:** [linkedin.com/in/rushen-kavindu](https://linkedin.com/in/rushen-kavindu-41256b322/)
 * **Portfolio:** [rushen kavindu](https://rushen-s-portfolio.vercel.app)
 * **Instagram:** [callme_rush_](https://www.instagram.com/callme_rush_)
