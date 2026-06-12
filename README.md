@@ -77,4 +77,5 @@ Beyond writing code, I am highly active in community service and youth leadershi
 * **Email:** rushenkavinduchilaw@gmail.com[cite: 1]
 * **LinkedIn:** [linkedin.com/in/rushen-kavindu](https://linkedin.com/in/rushen-kavindu-41256b322/)
 * **GitHub:** [@rush-25](https://github.com/rush-25)
-* **instagram:**[callme_rush_](https://www.instagram.com/callme_rush_)
+* **Instagram:**[callme_rush_](https://www.instagram.com/callme_rush_)
+* **Facebook:**[Rushen Kavindu](https://www.facebook.com/rushen.kavindu)
